@@ -39,9 +39,9 @@ View the Analysis:
 
 
 Sample Visualization:
-K-means Clustering (k = 3)
-This visualization shows the elbow-selected optimal number of clusters. It reveals 3 distinct groups in the dataset.
-![K-means Clustering (n=3)](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Figures/K-means%20n%3D3.png)
+t-SNE Visualization of Menatl Health Survey
+It highlights natural clusters in the dataset, showing how participants group based on their mental health responses. t-SNE is especially useful for uncovering nonlinear patterns that are not easily detected by linear methods like PCA.
+![t-SNE Visualization of mental health survey)](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Figures/t-SNE%20Visualization%20of%20Mental%20Health%20Survey%20Responses.png)
 
 PCA Mental Health Status
 The PCA projection shows some overlap in mental health status classes, but gives a good overview of data structure.
