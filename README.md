@@ -39,7 +39,18 @@ View the Analysis:
 
 
 Sample Visualization:
+K-means Clustering (k = 3)
+This visualization shows the elbow-selected optimal number of clusters. It reveals 3 distinct groups in the dataset.
+![K-means Clustering (n=3)](figures/K-means%20n=3.png)
 
+PCA Mental Health Status
+The PCA projection shows some overlap in mental health status classes, but gives a good overview of data structure.
+![PCA Mental Health Status](figures/PCA%20Mental%20HEalth%20Status.png)
+
+
+Work Position Categories
+This distribution shows how job titles were grouped into categories for clearer analysis.
+![Work Position Categories](figures/Work%20Position%20Categories%20Distribution.png)
 
 Author:
 **Jaco Venter**  
