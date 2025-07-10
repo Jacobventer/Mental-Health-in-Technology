@@ -35,7 +35,7 @@ Key Insights
  
 View the Analysis:
 - Jupyter Notebook: [Final_Code.ipynb](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Final%20Code.ipynb)
-- Rendered HTML: [Final_Code.html](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Final%20Code.html)
+
 
 
 Sample Visualization:
