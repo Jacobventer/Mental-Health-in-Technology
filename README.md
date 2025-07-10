@@ -41,7 +41,7 @@ View the Analysis:
 Sample Visualization:
 K-means Clustering (k = 3)
 This visualization shows the elbow-selected optimal number of clusters. It reveals 3 distinct groups in the dataset.
-![K-means Clustering (n=3)](figures/K-means%20n=3.png)
+![K-means Clustering (n=3)](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Figures/K-means%20n%3D3.png)
 
 PCA Mental Health Status
 The PCA projection shows some overlap in mental health status classes, but gives a good overview of data structure.
