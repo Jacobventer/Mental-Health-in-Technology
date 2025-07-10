@@ -45,12 +45,12 @@ This visualization shows the elbow-selected optimal number of clusters. It revea
 
 PCA Mental Health Status
 The PCA projection shows some overlap in mental health status classes, but gives a good overview of data structure.
-![PCA Mental Health Status](figures/PCA%20Mental%20HEalth%20Status.png)
+![PCA Mental Health Status](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Figures/PCA%20Mental%20HEalth%20Status.png)
 
 
 Work Position Categories
 This distribution shows how job titles were grouped into categories for clearer analysis.
-![Work Position Categories](figures/Work%20Position%20Categories%20Distribution.png)
+![Work Position Categories](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Figures/Work%20Position%20Categories%20Distribution.png)
 
 Author:
 **Jaco Venter**  
