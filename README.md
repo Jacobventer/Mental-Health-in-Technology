@@ -35,14 +35,12 @@ Key Insights
  
 View the Analysis:
 - Jupyter Notebook: [Final_Code.ipynb](https://github.com/Jacobventer/Mental-Health-in-Technology/blob/main/Final%20Code.ipynb)
-- Rendered HTML: [Final_Code.html](file:///D:/Users/jacov/Desktop/Persoonlike%20OneDrive/OneDrive/IU%20Data%20Science/IU%20Data%20Science/ZZZ%20Done/ML%20Unsupervised%20Learning/Final%20Code.html)
 
 
 Sample Visualization:
 
 
 Author:
-
 **Jaco Venter**  
 Data Science student  
 LinkedIn Profile: www.linkedin.com/in/jaco-venter-45502a162
