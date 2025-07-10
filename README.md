@@ -1,4 +1,4 @@
-#Unsupervised Machine Learning Project#
+## Unsupervised Machine Learning Project
 Mental Health in Tech 
 
 This project explores mental health survey data from the tech industry using unsupervised machine learning techniques.
